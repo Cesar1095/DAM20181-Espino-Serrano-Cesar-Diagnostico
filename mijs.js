@@ -7,3 +7,6 @@ function inicia(){
          				alert("Datos invalidos"); 
     			} 
 } 
+function calcular(){
+            //Aqui va el factorial...
+        }
